@@ -1,2 +1,2 @@
-## Welcome to the one-of-a-kind website
+Welcome to the one-of-a-kind website
 # Crahen.eth
